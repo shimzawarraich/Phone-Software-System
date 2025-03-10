@@ -1,4 +1,4 @@
-# Mobile Phone Application Using Java
+# Mobile Phone Application 
 
 ## Overview
 This project is a basic implementation of a mobile phone, featuring essential applications such as Settings, Contacts, Notes, Calculator, and Banking. Developed entirely in Java, the project implements Object-Oriented Programming (OOP) principles, incorporates debugging techniques, and accounts for various edge cases to ensure reliability. The development of the project was a collaborative effort between two developers, each independently developing specific applications before integrating them into the unified main phone class.
