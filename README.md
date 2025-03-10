@@ -9,7 +9,7 @@ This project is a basic implementation of a mobile phone, featuring essential ap
 ## Applications
 
 ### Contacts App
-The Contacts app is a simple implementation of a contacts manager typically found on a mobile phone. Upon entering the app, users are presented with the following options:
+The Contacts app is a simple implementation of a contacts app typically found on a mobile phone. Upon entering the app, users are presented with the following options:
 - Create a new contact
 - View an existing contact
 - Delete a contact
@@ -42,15 +42,5 @@ The Notes app is similar to the notes application found on most smartphones. Upo
 3. Compile and run the program using your preferred IDE or command-line interface.
 4. Upon launching, you will be prompted to enter the default password "Password." You can change this password through the Settings app.
 5. Choose from the available apps (Contacts, Settings, Notes) to start using the features.
-
-## Collaborators
-This project was developed by:
-- Developer 1
-- Developer 2
-
-Each developer worked independently on specific apps before merging them into the final project.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
